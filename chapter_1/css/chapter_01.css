@@ -1,0 +1,16 @@
+body {
+  background: #0091c2;
+  text-align: center;
+  margin-top: 200px;
+  font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1 {
+  color: #FFF;
+  font-size: 90px;
+}
+
+h3 {
+  color: #FFF;
+  font-size: 45px;
+}
