@@ -1,0 +1,33 @@
+body {
+  background: #0091c2;
+  background: url(http://orig12.deviantart.net/4216/f/2008/275/6/3/eiffel_tower_by_ravalius.jpg) no-repeat right fixed;
+  background-size: 800px 1200px;
+  font-size: 150%;
+  z-index: 1;
+  position: absolute;
+}
+
+h1 {
+  color: rgb(44, 104, 237);
+  font-size: 45px;
+  margin-left: 30px;
+}
+
+#info h2 {
+  color: #FFF;
+  margin-left: 150px;
+  background-color: #000;
+  display: inline-block;
+  padding: 15px 15px;
+  font-size: 25px;
+}
+
+#info p {
+  margin-left: 200px;
+  background-color: rgb(233, 106, 51);
+  padding: 15px 15px;
+  color: #FFF;
+  display: block;
+  text-align: center;
+  border-radius: 8px;
+}
